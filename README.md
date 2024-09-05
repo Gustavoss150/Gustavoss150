@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Gustavo, I'm a student of Software Engineering at UniSenai
+- 👋 Hi, I’m Gustavo
 - I'm a Software Engineering student by UniSenai
 - I’m looking to learn and work with back-end contents
-- 📫 I"m from Paraná and I live in the metropolitan region of Curitiba.
+- 📫 I'm from Paraná and I live in the metropolitan region of Curitiba.
 
 ## Contacts
 <div>
