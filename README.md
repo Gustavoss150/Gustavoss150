@@ -24,7 +24,6 @@
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavoss150&show_icons=true&theme=tokyonight&count_private=true"/> 
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavoss150&layout=compact&langs_count=7&theme=tokyonight"/> 
 </div>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gustavoss150&show_icons=true&theme=tokyonight&count_private=true&branch=master)
 
 ---
 
