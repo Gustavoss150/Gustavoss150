@@ -22,8 +22,7 @@
 ## 📊 GitHub Stats
 <div> 
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavoss150&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=86400"/> 
-  <img src="https://metrics.lecoq.io/Gustavoss150?template=classic&languages=1&introduction=1&languages.limit=10&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FSao_Paulo"/>
-
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavoss150&layout=compact&langs_count=10&theme=tokyonight&cache_seconds=86400"/> 
 </div>
 
 ---
