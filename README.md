@@ -1,9 +1,10 @@
 ## 👋 Hi, I’m Gustavo
 
-- 🎓 I'm a Software Engineering student at **UniSenai**
-- 💻 Passionate about **back-end development**, currently working with **Golang**
+- 💼 **Systems Developer** @ [Copel](https://www.copel.com)
+- 🎓 I´m a Software Engineering student at **UniSenai**
+- 💻 Passionate about **back-end development**, currently working with **Golang** & **Java**
 - 🚀 Looking to improve my skills and work on **real-world projects**
-- 📍 I'm from Paraná, Brazil 🇧🇷 and live in the **metropolitan region of Curitiba**
+- 📍 Paraná, Brazil 🇧🇷
 
 ---
 
@@ -26,12 +27,18 @@
 </div>
 
 ---
-### ⚡ Technologies & Tools:
+### 🛠 Tech Stack
+**Back-end:**  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+
+**Banco de Dados:**  
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
