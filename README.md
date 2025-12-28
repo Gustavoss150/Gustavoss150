@@ -21,27 +21,32 @@
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
-https://github-readme-stats.vercel.app/api?username=Gustavoss150&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavoss150&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8
-
-https://github-readme-streak-stats.herokuapp.com/?user=Gustavoss150&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff
-
+<div align="center"> 
+  <a href="https://github.com/Gustavoss150"> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavoss150&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavoss150&layout=compact&langs_count=10&theme=tokyonight" alt="Languages"> 
+  </a> 
+</div>
+<div align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gustavoss150&theme=tokyonight" alt="Contributions"> 
 </div>
 
 ---
 **Back-end:**  
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/> 
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/> 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+<div align="left"> 
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"> 
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"> 
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> 
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"> 
+</div>
 
 **Databases:**  
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/> 
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<div align="left"> 
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"> 
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"> 
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"> 
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"> </div>
 
 ---
 
