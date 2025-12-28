@@ -21,9 +21,13 @@
 ---
 
 ## 📊 GitHub Stats
-<div> 
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavoss150&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=14400"/> 
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavoss150&layout=compact&langs_count=10&theme=tokyonight&cache_seconds=14400"/> 
+<div align="center">
+https://github-readme-stats.vercel.app/api?username=Gustavoss150&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavoss150&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8
+
+https://github-readme-streak-stats.herokuapp.com/?user=Gustavoss150&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff
+
 </div>
 
 ---
